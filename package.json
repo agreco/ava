@@ -123,7 +123,7 @@
 		"core-assert": "^0.2.0",
 		"currently-unhandled": "^0.4.1",
 		"debug": "^2.2.0",
-		"dot-prop": "^4.1.0",
+		"dot-prop": "^5.1.1",
 		"empower-core": "^0.6.1",
 		"equal-length": "^1.0.0",
 		"figures": "^2.0.0",
